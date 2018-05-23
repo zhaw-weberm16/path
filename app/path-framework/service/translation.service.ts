@@ -81,6 +81,19 @@ export class TranslationService {
                 "Translations": "Translations",
                 "de": "German",
                 "en": "English",
+                "Recipes": "Recipes",
+                "Ingredients": "Ingredients",
+                "Regions": "Regions",
+                "NewRecipe": "New Recipe",
+                "RecipeName": "Recipe name",
+                "PreparationtimeInMinutes": "Preparationtime (min)",
+                "Region": "Region",
+                "Recipe": "Recipe",
+                "NewIngredient": "New Ingredient",
+                "Ingredient": "Ingredient",
+                "IngredientName": "Ingredient name",
+                "Season": "Season",
+                "CaloriesPer100g": "Calories per 100g",
             };
         }
     }
